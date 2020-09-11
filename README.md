@@ -1,4 +1,4 @@
-## DEMOR URL: 
+## DEMO URL: 
 http://shoaibmasood-react-signin-signup-firebase.surge.sh/
 
 
